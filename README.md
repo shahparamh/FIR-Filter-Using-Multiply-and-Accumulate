@@ -56,7 +56,7 @@ More details about the architecture, simulation, and results can be found in the
 
 ## ✍️ Authors
 
-- **Shah Parham** - [GitHub Profile](https://github.com/shahparamh)
+- **Shah Param** - [GitHub Profile](https://github.com/shahparamh)
 
 ## 📜 License
 
